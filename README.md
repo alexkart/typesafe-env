@@ -1,5 +1,9 @@
 # Type Safe Env
 
+> [!NOTE]
+> This is a fork of the `kero/typesafe-env` package. It adds:
+> - Support for Laravel 12
+
 Install via `composer req kero/typesafe-env`
 
 ![GitHub latest tag](https://img.shields.io/github/v/tag/kingkero/typesafe-env) [![codecov](https://codecov.io/gh/kingkero/typesafe-env/graph/badge.svg?token=4EAAZYEAN3)](https://codecov.io/gh/kingkero/typesafe-env) ![license: MIT](https://img.shields.io/github/license/kingkero/typesafe-env)
